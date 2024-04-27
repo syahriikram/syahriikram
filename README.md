@@ -5,11 +5,11 @@
 ## 📇 About Me
 A technology generalist exploring various facets of the tech world. 
 
-My journey began over 10 years ago with building C# Desktop and Web Applications, which led me to develop mobile applications for Android. I was introduced to the Cloud world on AWS and GCP for my first internship and that left me wanting to know more. Before diving into frameworks, I was a superstar in pure HTML/CSS developments, which laid the foundation for my frontend projects using Angular, React, and NextJS, alongside standard libraries like Bootstrap, Tailwind CSS, and Mantine. All of these relied on a database I was most familiar with, MySQL/sqllite at that point of time.
+My journey began over 10 years ago with building C# desktop and ASP.NET web applications, which led me to develop mobile applications for Android. I was introduced to the Cloud world on AWS and GCP for my first internship and that left me wanting to know more. Before diving into frameworks, I was a superstar in pure HTML/CSS developments, which laid the foundation for my frontend projects using Angular, React, and NextJS, alongside standard libraries like Bootstrap, Tailwind CSS, and Mantine. All of these relied on a database I was most familiar with, MySQL/sqllite at that point of time.
 
 In my professional life, I lead and co-lead teams in architecting and implementing systems on AWS using its full suite of services in the domains of Data Privacy and Data Engineering. This includes managing infrastructure as code (Terraform), navigating networking, developing backend applications in Python, and ensuring seamless deployments with CI/CD practices. 
 
-The start of fully utilising the GitHub repository is long overdue, but the best day to start is today. So, let's begin collating my coding journey and refreshing old projects! 😁
+The start of fully utilising my GitHub repository is long overdue, but the best day to start is today. So, let's begin collating my coding journey and refreshing old projects! 😁
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syahriikram/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/syahriikram/" alt="LinkedIn Badge"></a>
